@@ -1,0 +1,94 @@
+{
+    "1thWeek": {
+        "config":{
+            "rowNumber": 6
+        },
+        "sabbathSchool": {
+            "reception": "C",
+            "pianist": "D",
+            "greetings": "F",
+            "songService": null,
+            "miniPrayerTime": "F",
+            "memoryText": null,
+            "lessonStudy": null,
+            "program": "G",
+            "breakTime": null,
+            "announcements": null
+        },
+        "worshipService": {
+            "pianist": "D",
+            "translator": "L",
+            "presider": "I",
+            "hymn": null,
+            "openingPrayer": null,
+            "openingSong": null,
+            "scriptureReading": null,
+            "specialMusic": "J",
+            "preacher": "K",
+            "sermonTitleJP": null,
+            "sermonTitleEN": null,
+            "offeringPromotion": null,
+            "offeringService": "N",
+            "offeringPrayer": "O",
+            "closingSong": null,
+            "closingPrayer": null
+        },
+        "common": {
+            "sunset": null,
+            "titleJP": null,
+            "titleEN": null,
+            "memoryTextJP": null,
+            "memoryTextEN": null,
+            "scriptureJP": null,
+            "scriptureEN": null,
+            "meditationJP": null,
+            "meditationEN": null,
+            "quizQuestion": null,
+            "quizAnswer": null
+        },
+        "schedule":{
+            "1st": {
+                "rowNumber": "6",
+                "date": "4/5",
+                "reception": "C",
+                "pianist": "D",
+                "greetings": "F",
+                "program": "G",
+                "announcementTranslator": "H",
+                "specialMusic": "J",
+                "preacher": "K",
+                "SermonTranslator": "L",
+                "offeringService": "N",
+                "offeringPrayer": "O"
+            },
+            "2nd": {
+                "rowNumber": "7",
+                "date": "4/12",
+                "reception": "C",
+                "pianist": "D",
+                "greetings": "F",
+                "program": "G",
+                "announcementTranslator": "H",
+                "specialMusic": "J",
+                "preacher": "K",
+                "SermonTranslator": "L",
+                "offeringService": "N",
+                "offeringPrayer": "O"
+            },
+            "3rd": {
+                "rowNumber": "8",
+                "date": "4/19",
+                "reception": "C",
+                "pianist": "D",
+                "greetings": "F",
+                "program": "G",
+                "announcementTranslator": "H",
+                "specialMusic": "J",
+                "preacher": "K",
+                "SermonTranslator": "L",
+                "offeringService": "N",
+                "offeringPrayer": "O"
+            }
+        }
+    }
+}
