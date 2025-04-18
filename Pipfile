@@ -9,6 +9,7 @@ requests = "*"
 python-pptx = "*"
 pandas = "*"
 openpyxl = "*"
+astral = "*"
 
 [dev-packages]
 
